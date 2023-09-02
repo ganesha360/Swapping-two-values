@@ -31,7 +31,8 @@ print("Swapped values are:",a,b)
 
 ```
 Output:
-![SWAP](python.png)
+![SWAP](![P1](https://github.com/ganesha360/Swapping-two-values/assets/120884552/f4bc2840-1b3f-4e82-8e72-165ce210deff)
+)
 
 
 
