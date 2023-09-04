@@ -22,17 +22,17 @@ End the program
 #Program to swap two values.
 #Developed by: GANESH R
 #RegisterNumber: 212222240029
-a=int(input())
-b=int(input())
-temp=a
-a=b
-b=temp
-print("Swapped values are:",a,b)
+
+n1=input()
+n2=input()
+temp=n2
+n2=n1
+n1=temp
+print("Swapped values are:",n1,n2)
 
 ```
 Output:
-![output](![image](https://github.com/ganesha360/Swapping-two-values/assets/120884552/71fa9054-5e3d-43d0-b38e-bf0777f1eb22)
-)
+![output](./P1.png)
 
 
 
